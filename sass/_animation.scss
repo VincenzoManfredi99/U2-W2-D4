@@ -1,0 +1,14 @@
+@mixin fade-down-animation($name, $duration, $from-y, $to-y, $delay: 0s) {
+    @keyframes #{$name} {
+        from {
+            opacity: 0;
+            transform: translateY($from-y);
+        }
+        to {
+            opacity: 1;
+            transform: translateY($to-y);
+        }
+    }
+
+    animation: #{$name} $duration ease-out $delay forwards;
+}

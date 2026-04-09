@@ -1,0 +1,152 @@
+.btn-1 {
+  background-color: #0e6cff;
+  color: white;
+  padding: 0.8rem 1.5rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  display: inline-block;
+  transition: transform 0.2s, filter 0.2s;
+}
+.btn-1:hover {
+  filter: brightness(1.1);
+  transform: translateY(-2px);
+}
+.btn-1:active {
+  transform: translateY(0);
+}
+
+.btn-2 {
+  background-color: #ff8700;
+  color: white;
+  padding: 0.8rem 1.5rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  display: inline-block;
+  transition: transform 0.2s, filter 0.2s;
+}
+.btn-2:hover {
+  filter: brightness(1.1);
+  transform: translateY(-2px);
+}
+.btn-2:active {
+  transform: translateY(0);
+}
+
+.btn-3 {
+  background-color: #4caf50;
+  color: white;
+  padding: 0.8rem 1.5rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  display: inline-block;
+  transition: transform 0.2s, filter 0.2s;
+}
+.btn-3:hover {
+  filter: brightness(1.1);
+  transform: translateY(-2px);
+}
+.btn-3:active {
+  transform: translateY(0);
+}
+
+.padding-block-sm {
+  padding-block: 0.5rem;
+}
+
+.padding-block-normal {
+  padding-block: 1rem;
+}
+
+.padding-block-md {
+  padding-block: 2rem;
+}
+
+.padding-block-lg {
+  padding-block: 4rem;
+}
+
+.padding-block-xl {
+  padding-block: 8rem;
+}
+
+.padding-block-xxl {
+  padding-block: 12rem;
+}
+
+.padding-inline-sm {
+  padding-inline: 0.5rem;
+}
+
+.padding-inline-normal {
+  padding-inline: 1rem;
+}
+
+.padding-inline-md {
+  padding-inline: 2rem;
+}
+
+.padding-inline-lg {
+  padding-inline: 4rem;
+}
+
+.padding-inline-xl {
+  padding-inline: 8rem;
+}
+
+.padding-inline-xxl {
+  padding-inline: 12rem;
+}
+
+.margin-block-sm {
+  margin-block: 0.5rem;
+}
+
+.margin-block-normal {
+  margin-block: 1rem;
+}
+
+.margin-block-md {
+  margin-block: 2rem;
+}
+
+.margin-block-lg {
+  margin-block: 4rem;
+}
+
+.margin-block-xl {
+  margin-block: 8rem;
+}
+
+.margin-block-xxl {
+  margin-block: 12rem;
+}
+
+.margin-inline-sm {
+  margin-inline: 0.5rem;
+}
+
+.margin-inline-normal {
+  margin-inline: 1rem;
+}
+
+.margin-inline-md {
+  margin-inline: 2rem;
+}
+
+.margin-inline-lg {
+  margin-inline: 4rem;
+}
+
+.margin-inline-xl {
+  margin-inline: 8rem;
+}
+
+.margin-inline-xxl {
+  margin-inline: 12rem;
+}/*# sourceMappingURL=style.css.map */

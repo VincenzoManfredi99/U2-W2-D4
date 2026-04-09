@@ -1,0 +1,10 @@
+$font-main: 'Arial', sans-serif; 
+$fs-xl: 4rem;
+$fs-md: 1.2rem;
+
+@mixin title-big {
+    font-size: $fs-xl;
+    font-weight: 800;
+    line-height: 1.1;
+    margin-bottom: 1.5rem;
+}
